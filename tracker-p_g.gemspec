@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Tracker::PG::VERSION
   spec.authors       = ["Ben Bergstein"]
   spec.email         = ["bennyjbergstein@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Migrations for a tracker application"
+  spec.summary       = ''
   spec.homepage      = ""
   spec.license       = "MIT"
 
